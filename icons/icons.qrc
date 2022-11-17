@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>menu2.png</file>
+    <file>email.png</file>
+    <file>whatsApp.png</file>
+    <file>124034.png</file>
+    <file>conexao esportiva.png</file>
+  </qresource>
+</RCC>
